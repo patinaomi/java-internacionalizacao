@@ -28,11 +28,15 @@ Este repositório contém os projetos e exercícios desenvolvidos ao longo da di
 ## 📅 Aulas
 
 ### Aula 1 - Revisão Conteúdo
-[Projeto Inicial](aula1/ProjetoSpringInicial)
+[Projeto Inicial](Aula001/ProjetoSpringInicial)
 
 ### Aula 2 - Docker e Containers
 #### Exercício de Configuração
-[Exercício de Configuração](aula2/ConfigDocker)
+[Exercício de Configuração](Aula002/ConfigDocker)
+
+### Aula 3 - API Restful
+#### Exercício
+[Exercício](aula2/ConfigDocker)
 
 ## 🦆 Cursos
 ### Java: Trabalhando com Lambdas, streams e Spring Framework
