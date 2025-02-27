@@ -1,10 +1,10 @@
-package br.com.fiap.aula001;
+package br.com.fiap.Aula001;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Aula001ApplicationTests {
+class ProjetoMVCTests {
 
 	@Test
 	void contextLoads() {
