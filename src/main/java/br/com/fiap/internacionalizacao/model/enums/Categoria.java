@@ -10,7 +10,7 @@ public enum Categoria {
     HISTORIA("História"),
     BIOGRAFIA("Biografia");
 
-    private String descricao;
+    private final String descricao;
 
     Categoria(String descricao) {
         this.descricao = descricao;
